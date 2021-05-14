@@ -1,4 +1,7 @@
 venv
+.idea
+**/.idea/*
 .ipynb_checkpoints
 /cache/
 /config/development/
+build/
