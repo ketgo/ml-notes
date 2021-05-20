@@ -4,7 +4,11 @@
    contain the root `toctree` directive.
 
 Machine Learning Notes
-============================================
+======================
+
+The notes are organized into different topic vise sections. Each section contains detailed notes on the
+corresponding section. It is recommended for new readers to follow the notes in the order of the following
+table of content:
 
 .. toctree::
    :maxdepth: 2
