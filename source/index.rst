@@ -14,6 +14,8 @@ table of content:
    :maxdepth: 2
    :caption: Contents:
 
+   statistical_inference/index.rst
+   machine_learning/index.rst
 
 
 Indices and tables
