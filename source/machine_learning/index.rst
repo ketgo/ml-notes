@@ -1,9 +1,12 @@
-.. _index:
-
 Machine Learning
 ======================
 
-TODO
+TODO:
+
+- Machine learning model definition
+- Statistical decision theory
+- Generative vs discriminative models
+- Supervised vs Unsupervised models
 
 .. toctree::
    :maxdepth: 2

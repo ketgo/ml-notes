@@ -1,5 +1,3 @@
-.. _index:
-
 Statistical Inference
 ======================
 
@@ -9,6 +7,14 @@ different concepts in statistical inference.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Theory:
 
     Fundamentals <fundamentals>
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Test Statistics:
+
+    Student's T Test <test_statistics/t_test>
+    ANOVA <test_statistics/anova>
+    Chi^2 <test_statistics/chi_squared>

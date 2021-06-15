@@ -1,0 +1,4 @@
+.. _anova:
+
+ANOVA Test
+##########
